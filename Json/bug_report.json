@@ -1,0 +1,7 @@
+{
+"Id" : 1, 
+"Title" : "Does't send a message by email",
+ "Steps to reprodus": "1.Open main page. 2.Push 'email' button. 3. Write a letter. 4.Push 'send message' button",
+ "Expected result" : "message sent",
+  "Actual result" : "message not sent"
+}
